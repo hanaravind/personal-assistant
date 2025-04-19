@@ -135,7 +135,7 @@ const LoginWrapper = () => {
                   </div>
               </div>
           </section>
-          <section className="location-section">
+          {/* <section className="location-section">
               <div className="auto-container">
                   <div className="sec-title centred">
                       <h6>Our Locations</h6>
@@ -285,7 +285,7 @@ const LoginWrapper = () => {
                       </div>
                   </div>
               </div>
-          </section>
+          </section> */}
       </div>
   )
 }

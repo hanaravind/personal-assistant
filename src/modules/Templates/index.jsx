@@ -120,7 +120,7 @@ const TemplateWrapper = () => {
                         </div>
                       <div className="container d-flex justify-content-center">
 
-                          {searchLists?.length !== 0 ? <ul className="list-group mt-5 text-white min-w-[1140px]">
+                          {searchLists?.length !== 0 ? <ul className="list-group mt-5 text-white min-w-[360px] w-full">
                               {searchLists?.map((template, i) => <li key={i} className="list-group-item d-flex justify-content-between align-content-center">
                                   <div className="flex">
                                       <img src="https://img.icons8.com/color/100/000000/folder-invoices.png" style={{ objectFit: 'contain' }} width="40" />

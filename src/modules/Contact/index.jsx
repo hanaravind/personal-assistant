@@ -4,7 +4,7 @@ const ContactWrapper = () => {
   return (
     <div>
         <section className="page-title centred">
-            <div className="outer-container" style={{backgroundImage: "url(assets/images/background/page-title.jpg)"}}>
+            <div className="outer-container" style={{backgroundImage: "url('https://t4.ftcdn.net/jpg/02/18/18/55/360_F_218185587_P4zituDtWJOfClUKL6merI0BgLMIxoeC.jpg')"}}>
                 <div className="auto-container">
                     <div className="content-box clearfix">
                         <div className="title">
@@ -75,7 +75,7 @@ const ContactWrapper = () => {
                             <div className="single-item">
                                 <div className="icon-box"><i className="flaticon-envelope"></i></div>
                                 <h3>Email</h3>
-                                <p><a href="mailto:supportyou@info.com">contactme@assistant.com</a></p>
+                                <p><a href="mailto:supportyou@info.com">contactme@atozyourassistant.com</a></p>
                             </div>
                         </div>
                        

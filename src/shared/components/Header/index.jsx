@@ -12,8 +12,7 @@ const Header = () => {
       <div className="header-lower">
         <div className="outer-box">
           <div className="mobile-nav-toggler">
-            <div className="menu-icon"><img src="assets/images/icons/menu-icon.png" alt="" /></div>
-            <Link to={'/'}><span>Menu</span></Link>
+            {/* <div className="menu-icon"><img src="assets/images/icons/menu-icon.png" alt="" /></div> */}
           </div>
           <div className="menu-area">
             <nav className="main-menu navbar-expand-md navbar-light">

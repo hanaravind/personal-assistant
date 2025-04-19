@@ -102,9 +102,9 @@ const Footer = () => {
               <p>&copy; 2025 <a href=""></a> Copy rights</p>
             </div>
             <ul className="footer-nav clearfix pull-right">
-              <li><a href="">Privacy Policy</a></li>
+              {/* <li><a href="">Privacy Policy</a></li>
               <li><a href="">Term Of Use</a></li>
-              <li><a href="">Support</a></li>
+              <li><a href="">Support</a></li> */}
             </ul>
           </div>
         </div>

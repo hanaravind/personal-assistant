@@ -4,7 +4,7 @@ const AboutWrapper = () => {
   return (  
     <> 
     <section className="page-title centred">
-        <div className="outer-container" style={{backgroundImage: "url(assets/images/background/page-title.jpg)"}}>
+        <div className="outer-container" style={{backgroundImage: "url('https://t4.ftcdn.net/jpg/02/18/18/55/360_F_218185587_P4zituDtWJOfClUKL6merI0BgLMIxoeC.jpg')"}}>
             <div className="auto-container">
                 <div className="content-box clearfix">
                     <div className="title">
@@ -25,7 +25,7 @@ const AboutWrapper = () => {
             <div className="row clearfix">
                 <div className="col-lg-6 col-md-12 col-sm-12 image-column">
                     <div className="image-box">
-                        <figure className="image"><img src="assets/images/resource/about-3.jpg" alt="" /></figure>
+                        <figure className="image !rounded-none"><img className='!rounded-none' src="https://media.istockphoto.com/id/1416048929/photo/woman-working-on-laptop-online-checking-emails-and-planning-on-the-internet-while-sitting-in.jpg?s=612x612&w=0&k=20&c=mt-Bsap56B_7Lgx1fcLqFVXTeDbIOILVjTdOqrDS54s=" alt="" /></figure>
                        
                     </div>
                 </div>

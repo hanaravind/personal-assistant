@@ -17,6 +17,9 @@ const AdminLayout = ({ children }) => {
         <div className='flex gap-3 bg-amber-100 p-3'>
             <Link to="/admin/dashboard">Dashboard</Link>
             <Link to="/admin/templates">Templates</Link>
+            <div className='flex justify-end  w-full'>
+              <Link to="/">Home</Link>
+            </div>
         </div>
       </nav>
       <main>

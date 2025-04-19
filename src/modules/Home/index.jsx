@@ -35,8 +35,8 @@ const HomeWrapper = () => {
          <div className="row clearfix">
              <div className="col-lg-6 col-md-12 col-sm-12 image-column">
                  <div className="image-box">
-                     <div className="pattern-layer" style={{backgroundImage: "url(/assets/images/shape/shape-11.png)"}}></div>
-                     <figure className="image float-bob-y"><img src="/assets/images/resource/assisant1.png" alt="" /></figure>
+                     {/* <div className="pattern-layer" style={{backgroundImage: "url(https://plus.unsplash.com/premium_photo-1664474834472-6c7d1e3198e2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGVvcGxlJTIwd29ya2luZ3xlbnwwfHwwfHx8MA%3D%3D)"}}></div> */}
+                     <figure className="image float-bob-y"><img src="https://plus.unsplash.com/premium_photo-1664474834472-6c7d1e3198e2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGVvcGxlJTIwd29ya2luZ3xlbnwwfHwwfHx8MA%3D%3D" alt="" /></figure>
 
                  </div>
              </div>
